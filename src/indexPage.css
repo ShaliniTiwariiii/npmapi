@@ -1,0 +1,19 @@
+.table{
+    border-bottom: 1px solid rgb(0, 128, 255);
+    border-top:1px solid rgb(0, 128, 255);
+    display: flex;
+    border-radius: 15px;
+    text-align: justify;
+height: 3rem;
+    margin-left: 1rem;
+    padding-left: 1rem;
+    align-items: center;
+   
+}
+.Button{
+
+position: absolute;
+left: 40%;
+padding: 1rem;
+  
+}
